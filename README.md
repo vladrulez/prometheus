@@ -1,1 +1,1 @@
-# prometheus
+Just some scripts for Prometheus
