@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
+# Nagios/Icinga check for Prometheus targets
 
 import requests
 import sys
